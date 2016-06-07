@@ -1,4 +1,5 @@
 %PROBLEM NO. 2
+% Implement Brent’s Method
 % function [bren itmax] = Brent(func,x1,x2,tol)
 
 %inputs
