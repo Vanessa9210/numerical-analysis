@@ -1,4 +1,4 @@
-%PROBLEM NO. 2 
+%PROBLEM NO. 3
 
 % function ap = simpson(f,a,b,n,tol)
 %it is a method to find an approximation of the integral of f (x).
